@@ -355,10 +355,18 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 /* Portfolio */
 .image{
   position: relative;
+   height:auto;
+  width:300px;
+}
+.getongplay{
+   display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
 .image img{
   margin: 0px;
   width: 100%;
+ 
 }
 .image-overlay {
   position: absolute;

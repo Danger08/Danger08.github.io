@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: 
+Allow: /
+Allow: /index
+Disallow: /robots.txt
+Disallow: /sitemap

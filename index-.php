@@ -315,7 +315,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="skill-progress">
-              <div class="skill-title"><h3>UX Design</h3></div>
+              <div class="skill-title"><h3>UX Design</h3></div> 
               <div class="progress">
                 <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" ><span>95%</span>
                 </div>
@@ -323,14 +323,14 @@
             </div><!-- /.skill-progress -->
 
             <div class="skill-progress">
-              <div class="skill-title"><h3>Visual Design</h3></div>
+              <div class="skill-title"><h3>Visual Design</h3></div> 
               <div class="progress">
                 <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" ><span>80%</span>
                 </div>
               </div><!-- /.progress -->
             </div><!-- /.skill-progress -->
             <div class="skill-progress">
-              <div class="skill-title"><h3>Business Design</h3></div>
+              <div class="skill-title"><h3>Business Design</h3></div>  
               <div class="progress">
                 <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" ><span>75%</span>
                 </div>
@@ -340,21 +340,21 @@
 
           <div class="col-md-6">
             <div class="skill-progress">
-              <div class="skill-title"><h3>Branding Design</h3></div>
+              <div class="skill-title"><h3>Branding Design</h3></div> 
               <div class="progress">
                 <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" ><span>95%</span>
                 </div>
               </div><!-- /.progress -->
             </div><!-- /.skill-progress -->
             <div class="skill-progress">
-              <div class="skill-title"><h3>Motion Graphic</h3></div>
+              <div class="skill-title"><h3>Motion Graphic</h3></div> 
               <div class="progress">
                 <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" ><span>80%</span>
                 </div>
               </div><!-- /.progress -->
             </div><!-- /.skill-progress -->
             <div class="skill-progress">
-              <div class="skill-title"><h3>Flyers Designing</h3></div>
+              <div class="skill-title"><h3>Flyers Designing</h3></div>  
               <div class="progress">
                 <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" ><span>75%</span>
                 </div>
@@ -366,7 +366,7 @@
         <div class="skill-chart text-center">
           <h3>More skills</h3>
         </div>
-
+          
         <div class="row more-skill text-center">
           <div class="col-xs-12 col-sm-4 col-md-2">
               <div class="chart" data-percent="91" data-color="e74c3c">
@@ -443,9 +443,9 @@
                   <div class="tt-overlay"></div>
                   <div class="links">
                     <a class="image-link" href="assets/images/works/portfolio-1.jpg"><i class="fa fa-search-plus"></i></a>
-                    <a href="#"><i class="fa fa-link"></i></a>
+                    <a href="#"><i class="fa fa-link"></i></a>                          
                   </div><!-- /.links -->
-                  <img src="assets/images/works/portfolio-1.jpg" alt="image">
+                  <img src="assets/images/works/portfolio-1.jpg" alt="image"> 
                   <div class="portfolio-info">
                     <h3>Portfolio Title</h3>
                   </div><!-- /.portfolio-info -->
@@ -460,9 +460,9 @@
                   <div class="tt-overlay"></div>
                   <div class="links">
                     <a class="image-link" href="assets/images/works/portfolio-2.jpg"><i class="fa fa-search-plus"></i></a>
-                    <a href="#"><i class="fa fa-link"></i></a>
+                    <a href="#"><i class="fa fa-link"></i></a>                          
                   </div><!-- /.links -->
-                  <img src="assets/images/works/portfolio-2.jpg" alt="image">
+                  <img src="assets/images/works/portfolio-2.jpg" alt="image"> 
                   <div class="portfolio-info">
                     <h3>Portfolio Title</h3>
                   </div><!-- /.portfolio-info -->
@@ -475,9 +475,9 @@
                   <div class="tt-overlay"></div>
                   <div class="links">
                     <a class="image-link" href="assets/images/works/portfolio-3.jpg"><i class="fa fa-search-plus"></i></a>
-                    <a href="#"><i class="fa fa-link"></i></a>
+                    <a href="#"><i class="fa fa-link"></i></a>                          
                   </div><!-- /.links -->
-                  <img src="assets/images/works/portfolio-3.jpg" alt="image">
+                  <img src="assets/images/works/portfolio-3.jpg" alt="image"> 
                   <div class="portfolio-info">
                     <h3>Portfolio Title</h3>
                   </div><!-- /.portfolio-info -->
@@ -490,9 +490,9 @@
                   <div class="tt-overlay"></div>
                   <div class="links">
                     <a class="image-link" href="assets/images/works/portfolio-4.jpg"><i class="fa fa-search-plus"></i></a>
-                    <a href="#"><i class="fa fa-link"></i></a>
+                    <a href="#"><i class="fa fa-link"></i></a>                          
                   </div><!-- /.links -->
-                  <img src="assets/images/works/portfolio-4.jpg" alt="image">
+                  <img src="assets/images/works/portfolio-4.jpg" alt="image"> 
                   <div class="portfolio-info">
                     <h3>Portfolio Title</h3>
                   </div><!-- /.portfolio-info -->
@@ -505,9 +505,9 @@
                   <div class="tt-overlay"></div>
                   <div class="links">
                     <a class="image-link" href="assets/images/works/portfolio-5.jpg"><i class="fa fa-search-plus"></i></a>
-                    <a href="#"><i class="fa fa-link"></i></a>
+                    <a href="#"><i class="fa fa-link"></i></a>                          
                   </div><!-- /.links -->
-                  <img src="assets/images/works/portfolio-5.jpg" alt="image">
+                  <img src="assets/images/works/portfolio-5.jpg" alt="image"> 
                   <div class="portfolio-info">
                     <h3>Portfolio Title</h3>
                   </div><!-- /.portfolio-info -->
@@ -520,9 +520,9 @@
                   <div class="tt-overlay"></div>
                   <div class="links">
                     <a class="image-link" href="assets/images/works/portfolio-6.jpg"><i class="fa fa-search-plus"></i></a>
-                    <a href="#"><i class="fa fa-link"></i></a>
+                    <a href="#"><i class="fa fa-link"></i></a>                          
                   </div><!-- /.links -->
-                  <img src="assets/images/works/portfolio-6.jpg" alt="image">
+                  <img src="assets/images/works/portfolio-6.jpg" alt="image"> 
                   <div class="portfolio-info">
                     <h3>Portfolio Title</h3>
                   </div><!-- /.portfolio-info -->
@@ -535,9 +535,9 @@
                   <div class="tt-overlay"></div>
                   <div class="links">
                     <a class="image-link" href="assets/images/works/portfolio-7.jpg"><i class="fa fa-search-plus"></i></a>
-                    <a href="#"><i class="fa fa-link"></i></a>
+                    <a href="#"><i class="fa fa-link"></i></a>                          
                   </div><!-- /.links -->
-                  <img src="assets/images/works/portfolio-7.jpg" alt="image">
+                  <img src="assets/images/works/portfolio-7.jpg" alt="image"> 
                   <div class="portfolio-info">
                     <h3>Portfolio Title</h3>
                   </div><!-- /.portfolio-info -->
@@ -550,9 +550,9 @@
                   <div class="tt-overlay"></div>
                   <div class="links">
                     <a class="image-link" href="assets/images/works/portfolio-8.jpg"><i class="fa fa-search-plus"></i></a>
-                    <a href="#"><i class="fa fa-link"></i></a>
+                    <a href="#"><i class="fa fa-link"></i></a>                          
                   </div><!-- /.links -->
-                  <img src="assets/images/works/portfolio-8.jpg" alt="image">
+                  <img src="assets/images/works/portfolio-8.jpg" alt="image"> 
                   <div class="portfolio-info">
                     <h3>Portfolio Title</h3>
                   </div><!-- /.portfolio-info -->
@@ -577,19 +577,19 @@
                   <h3 class="timer">7</h3>
                   <p>Years of Experience</p>
                 </div>
-                <div class="col-sm-3 col-xs-6">
+                <div class="col-sm-3 col-xs-6"> 
                   <i class="fa fa-thumbs-up"></i>
-                  <h3 class="timer">651</h3>
+                  <h3 class="timer">651</h3>                
                   <p>Projects Done</p>
                 </div>
                 <div class="col-sm-3 col-xs-6">
                   <i class="fa fa-users"></i>
-                  <h3 class="timer">251</h3>
+                  <h3 class="timer">251</h3> 
                   <p>Happy Clients</p>
                 </div>
                 <div class="col-sm-3 col-xs-6">
                   <i class="fa fa-trophy"></i>
-                  <h3 class="timer">5</h3>
+                  <h3 class="timer">5</h3> 
                   <p>Awards Won</p>
                 </div>
               </div><!-- /count-wrap -->
@@ -608,7 +608,7 @@
         <div class="row">
           <div class="col-sm-4">
             <article class="blog-post-wrapper">
-              <div class="figure">
+              <div class="figure">    
                 <div class="post-thumbnail">
                   <a href="#"><img src="assets/images/blog/01.jpg" class="img-responsive " alt=""></a>
                 </div>
@@ -616,7 +616,7 @@
               </div><!-- /.figure -->
               <header class="entry-header">
                 <div class="post-meta">
-                  <span class="the-category">
+                  <span class="the-category"> 
                     <a href="#">Print Design,</a> <a href="#">Photoshop</a>
                   </span>
                 </div>
@@ -626,7 +626,7 @@
                   <ul class="list-inline">
                     <li>
                       <span class="the-author">
-                        <a href="#">Admin</a>
+                        <a href="#">Admin</a> 
                       </span>
                     </li>
                     <li>
@@ -651,7 +651,7 @@
           </div><!-- /.col-sm-4 -->
           <div class="col-sm-4">
             <article class="blog-post-wrapper">
-              <div class="figure">
+              <div class="figure">    
                 <div class="post-thumbnail">
                   <a href="#"><img src="assets/images/blog/02.jpg" class="img-responsive " alt=""></a>
                 </div>
@@ -659,7 +659,7 @@
               </div><!-- /.figure -->
               <header class="entry-header">
                 <div class="post-meta">
-                  <span class="the-category">
+                  <span class="the-category"> 
                     <a href="#">Print Design,</a> <a href="#">Photoshop</a>
                   </span>
                 </div>
@@ -669,7 +669,7 @@
                   <ul class="list-inline">
                     <li>
                       <span class="the-author">
-                        <a href="#">Admin</a>
+                        <a href="#">Admin</a> 
                       </span>
                     </li>
                     <li>
@@ -694,7 +694,7 @@
           </div><!-- /.col-sm-4 -->
           <div class="col-sm-4">
             <article class="blog-post-wrapper">
-              <div class="figure">
+              <div class="figure">    
                 <div class="post-thumbnail">
                   <a href="#"><img src="assets/images/blog/03.jpg" class="img-responsive " alt=""></a>
                 </div>
@@ -702,7 +702,7 @@
               </div><!-- /.figure -->
               <header class="entry-header">
                 <div class="post-meta">
-                  <span class="the-category">
+                  <span class="the-category"> 
                     <a href="#">Print Design,</a> <a href="#">Photoshop</a>
                   </span>
                 </div>
@@ -712,7 +712,7 @@
                   <ul class="list-inline">
                     <li>
                       <span class="the-author">
-                        <a href="#">Admin</a>
+                        <a href="#">Admin</a> 
                       </span>
                     </li>
                     <li>
@@ -739,7 +739,7 @@
         <div class="blog-more text-center">
           <a href="#" class="btn btn-primary">View More</a>
         </div>
-
+        
       </div><!-- /.container -->
     </section><!-- End Blog Section -->
 
@@ -844,30 +844,23 @@
       </div>
     </footer><!-- End Footer Section -->
 
-		<div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179783" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179785" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179786" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179788" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179789" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
+<a href="http://go.ad2up.com/afu.php?id=1179406" class ="azure-links">1</a>
+<a href="http://go.ad2up.com/afu.php?id=1179407" class ="azure-links">2</a>
+<a href="http://go.ad2up.com/afu.php?id=1179408" class ="azure-links">3</a>
+<a href="http://go.ad2up.com/afu.php?id=1179412" class ="azure-links">4</a>
+<a href="http://go.ad2up.com/afu.php?id=1179411" class ="azure-links">5</a>
 
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179790" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179792" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179794" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179796" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179797" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
+<a href="http://go.ad2up.com/afu.php?id=1179413" class ="azure-links">6</a>
+<a href="http://go.ad2up.com/afu.php?id=1179415" class ="azure-links">7</a>
+<a href="http://go.ad2up.com/afu.php?id=1179416" class ="azure-links">8</a>
+<a href="http://go.ad2up.com/afu.php?id=1179417" class ="azure-links">9</a>
+<a href="http://go.ad2up.com/afu.php?id=1179418" class ="azure-links">10</a>
 
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179800" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179798" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179801" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179804" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-    <div align="center"><iframe src="http://go.ad2up.com/afu.php?id=1179805" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-
-		<div align="center"><iframe src="http://go.ad2upapp.com/afu.php?id=1184381" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-		<div align="center"><iframe src="http://go.ad2upapp.com/afu.php?id=1184382" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-		<div align="center"><iframe src="http://go.ad2upapp.com/afu.php?id=1184383" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-		<div align="center"><iframe src="http://go.ad2upapp.com/afu.php?id=1184384" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-		<div align="center"><iframe src="http://go.ad2upapp.com/afu.php?id=1184385" style="border:none;volume: silent;" scrolling="no" height="1" width="1%"></iframe></div>
-
+<a href="http://go.ad2up.com/afu.php?id=1179419" class ="azure-links">11</a>
+<a href="http://go.ad2up.com/afu.php?id=1179420" class ="azure-links">12</a>
+<a href="http://go.ad2up.com/afu.php?id=1179421" class ="azure-links">13</a>
+<a href="http://go.ad2up.com/afu.php?id=1179423" class ="azure-links">14</a>
+<a href="http://go.ad2up.com/afu.php?id=1179424" class ="azure-links">15</a>
 
 	<!-- Scroll-up -->
 	<div class="scroll-up">
@@ -883,7 +876,7 @@
   <script src="assets/js/smoothscroll.js"></script>
  <script src="assets/js/wow.min.js"></script>
   <script src="assets/js/jquery.countTo.js"></script>
-  <script src="assets/js/jquery.inview.min.js"></script>
+  <script src="assets/js/jquery.inview.min.js"></script> 
   <script src="assets/js/jquery.easypiechart.js"></script>
   <script src="assets/js/jquery.shuffle.min.js"></script>
   <script src="assets/js/jquery.magnific-popup.min.js"></script>
